@@ -305,6 +305,7 @@ nav .right img:last-child {
     font-weight: bold;
     text-transform: uppercase;
     margin-bottom: 40px;
+    text-shadow: 0.1em 0.1em 0.2em black;
 }
 .global-area .box{
     background-color: rgba(0, 0, 0, 0.7);
