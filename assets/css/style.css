@@ -115,6 +115,7 @@ nav .right img:last-child {
 
 .banner h4, .banner h1 {
     margin-left: 30px;
+    text-shadow: 0.1em 0.1em 0.2em black
 }
 
 .banner h4 {
@@ -383,6 +384,14 @@ footer .social a{
     }
     .banner {
         height: calc( 100vh - 76px);
+        justify-content: center;
+        align-items: center;
+        flex-direction: column-reverse;
+        text-align: center;
+    }
+    .banner h1, .banner h4{
+        margin: 0;
+        font-weight: bold;
     }
     .desc{
         margin-bottom: 20px;
