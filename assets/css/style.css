@@ -393,6 +393,8 @@ footer .social a{
     .banner h1, .banner h4{
         margin: 0;
         font-weight: bold;
+        margin-left:15px;
+        margin-right:15px;
     }
     .desc{
         margin-bottom: 20px;
