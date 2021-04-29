@@ -397,6 +397,9 @@ footer .social a {
     .banner h1 {
         font-size: 50px;
     }
+    .banner h4{
+        font-size: 20px;
+    }
     .banner h1, .banner h4 {
         margin: 0;
         font-weight: bold;
